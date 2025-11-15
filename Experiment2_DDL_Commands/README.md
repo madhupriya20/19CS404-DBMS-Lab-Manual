@@ -292,3 +292,5 @@ FROM Archived_students;
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
+<img width="1111" height="76" alt="image" src="https://github.com/user-attachments/assets/a3ba9268-0c0f-4abf-bb43-84f1d14e3c70" />
+
